@@ -1,0 +1,17 @@
+{
+  "name": "patrice",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest",
+    "@types/lodash": "^4.17.6"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "exceljs": "^4.4.0",
+    "haversine-distance": "^1.2.3",
+    "lodash": "^4.17.21"
+  }
+}
